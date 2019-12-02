@@ -312,10 +312,10 @@ td { vertical-align: top; }
 	border-bottom-color: #FFF;
 }
 .gridContainer.clearfix #footer {
-	color: #F69;
 	margin-top: 10px;
 	padding-top: 5px;
 	border-top-width: 1px;
 	border-top-style: solid;
 	border-top-color: #F69;
+	color: #F69;
 }
